@@ -1,0 +1,149 @@
+{
+  "configVersion": 1,
+  "timestamp": 1615189843389,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.f4ce3e64593be0e70826.js",
+        "/manifest.webmanifest",
+        "/polyfills.8c151b8375e767ff858f.js",
+        "/runtime.0e49e2b53282f40c8925.js",
+        "/styles.3ff695c00d717f2d2a11.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/default_user.png",
+        "/assets/icons/down.svg",
+        "/assets/icons/downvote.svg",
+        "/assets/icons/facebookf.svg",
+        "/assets/icons/heart.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/instagram.svg",
+        "/assets/icons/kebab.svg",
+        "/assets/icons/like.svg",
+        "/assets/icons/liked.svg",
+        "/assets/icons/linkedin.svg",
+        "/assets/icons/orbitRing.svg",
+        "/assets/icons/orbiting.svg",
+        "/assets/icons/reshare.svg",
+        "/assets/icons/rightArrow.svg",
+        "/assets/icons/twitter.svg",
+        "/assets/icons/upvote.svg",
+        "/assets/images/athelet.png",
+        "/assets/images/logo192.png",
+        "/assets/images/logo512.png",
+        "/assets/images/profile.png",
+        "/assets/images/v15_715.png",
+        "/assets/images/v15_740.png",
+        "/assets/images/v15_755.png",
+        "/assets/images/v15_761.png",
+        "/assets/images/v15_776.png",
+        "/assets/images/v15_782.png",
+        "/assets/images/v15_797.png",
+        "/assets/images/v15_803.png",
+        "/assets/images/v15_807.png",
+        "/assets/images/v15_808.png",
+        "/assets/images/v15_818.png",
+        "/assets/images/v15_824.png",
+        "/assets/images/v15_839.png",
+        "/assets/images/xyz.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/default_user.png": "f54e5f18945664c4d8235eac7d05ba337bbf2140",
+    "/assets/icons/down.svg": "838d69f5b3010a6de0f47ba201c6985fd165289c",
+    "/assets/icons/downvote.svg": "48bdcf5f89a3c9ad426fa5482083fd6b3d24af4a",
+    "/assets/icons/facebookf.svg": "131546689dbdcc76259855e9a42fc5dbb1b87048",
+    "/assets/icons/heart.svg": "b78b6c18044bd239264ba324625a552c78ad599e",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/instagram.svg": "43b5b86d446f96d850ca1d724fcc26b16523c633",
+    "/assets/icons/kebab.svg": "76a42d31e7b53c46446587370f9c75a9b1ae6dc2",
+    "/assets/icons/like.svg": "2c7238036ecacee81382661d4d5f22517c67435f",
+    "/assets/icons/liked.svg": "79ea652e6d1ab488b727dfac17e249125dd8ec67",
+    "/assets/icons/linkedin.svg": "72be8d4093dba5aa43a193916ecfb01d7e214f93",
+    "/assets/icons/orbitRing.svg": "3292066b3d999d3410492b56175fc0537549456b",
+    "/assets/icons/orbiting.svg": "acadcbf53de250b300075e8df3dff9e6836bc2b6",
+    "/assets/icons/reshare.svg": "9b66f9dd80a9a4e3ca9eef8b1dde34bb4bb8e036",
+    "/assets/icons/rightArrow.svg": "c1a5675ed8e5eeb673797397714a8f77318262b1",
+    "/assets/icons/twitter.svg": "1a9a930cc91cb75903252235eef7a3a8e2a205dd",
+    "/assets/icons/upvote.svg": "9cdf1c66451e942d70660d4ca9a3c0cb4a37d992",
+    "/assets/images/athelet.png": "b375790b8fc24664dab6b01603aa4ae0bf5259b3",
+    "/assets/images/logo192.png": "3954f6c796ac7571e4f5683dd428355e7daa7f64",
+    "/assets/images/logo512.png": "030daaf55c2f12c7f4cf73dd9deb0cb94a73df37",
+    "/assets/images/profile.png": "26ad3e70867a10aae6ec74dd0e9917fba8c58984",
+    "/assets/images/v15_715.png": "5108d6eee3c2aca8cbcacac24f4eadf27dcfdd25",
+    "/assets/images/v15_740.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_755.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_761.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_776.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_782.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_797.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_803.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_807.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_808.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_818.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_824.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/v15_839.png": "30b1612ca844d851f33dbc86e2e1b1a558d05f1f",
+    "/assets/images/xyz.jpg": "9413d4cbc20a22315c8132b836605fb5d5bac8f5",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "20d0e763caa6e228e648619e282e0112b77a4f26",
+    "/main.f4ce3e64593be0e70826.js": "baea9bf95539afae8881e883b627a886cb74411f",
+    "/manifest.webmanifest": "0b1c70dd074520b326172e7a16ae95e3ed9fcf54",
+    "/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.3ff695c00d717f2d2a11.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
